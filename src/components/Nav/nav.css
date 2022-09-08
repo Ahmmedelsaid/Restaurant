@@ -1,0 +1,25 @@
+nav {
+  background-color: #fff;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+nav a {
+  color: #a82d49 !important;
+  letter-spacing: 1px;
+  font-size: 15px;
+  text-transform: capitalize;
+}
+nav .btnX {
+  border: 3px solid #a82d49;
+  background-color: #a82d49;
+  box-sizing: border-box;
+  cursor: pointer;
+  color: #fff !important;
+  border-radius: 25%;
+}
+nav .btnX:hover {
+  transition: 0.2s ease-in-out;
+  color: royalblue !important;
+  background-color: transparent;
+}

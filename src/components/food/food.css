@@ -1,0 +1,118 @@
+.blogs {
+  margin-top: 70px;
+  padding: 25px 0;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.blogs h2 {
+  color: #a82d49;
+}
+.blogs p {
+  color: #333;
+  font-size: 23px;
+  line-height: 30px;
+  margin: 10px;
+  padding: 15px;
+}
+.blogs img {
+  width: 100%;
+}
+.blogs button {
+  background-color: #a82d49;
+  color: white;
+  border-color: #a82d49;
+  padding: 10px;
+}
+.blogs .box {
+  border: 1px solid #f6f6f6;
+  text-align: left;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 10px;
+  border-radius: 10px;
+  height: auto;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.blogs button:hover {
+  background-color: transparent;
+  color: #a82d49;
+  transition: 0.2s ease-in-out;
+}
+.blogs .box h3 {
+  color: #a82d49;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.blogs .box h6 {
+  color: #a82d49;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 20px;
+}
+.blogs .box span {
+  font-size: 16px;
+  margin: 10px 0;
+  letter-spacing: 1px;
+}
+.payment {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-color: beige;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  padding: 10px 40px;
+  display: none;
+  flex-direction: column;
+  -webkit-box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+}
+.payment h1 {
+  color: #a82d49;
+  font-weight: bold;
+  margin: 30px 0;
+  font-size: 35px;
+}
+.payment input::placeholder {
+  color: rgb(163, 163, 163);
+}
+
+.payment input {
+  padding: 10px;
+  margin: 10px 0px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+.payment button {
+  padding: 10px;
+  width: 100px;
+  margin: auto;
+}
+.payment .close {
+  color: #a82d49;
+  background-color: white;
+  border: 1px solid #a82d49;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  right: 0;
+}
+ @media(max-width:700px){
+  .payment{
+    width: 300px;
+    height: 550px;
+  }
+ }
