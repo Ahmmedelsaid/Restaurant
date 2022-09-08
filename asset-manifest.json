@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.3e696bdc.css",
+    "main.js": "/Restaurant/static/js/main.11431c8e.js",
+    "static/js/787.aab8bd84.chunk.js": "/Restaurant/static/js/787.aab8bd84.chunk.js",
+    "static/media/03.jpg": "/Restaurant/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/hero.bg.jpg": "/Restaurant/static/media/hero.bg.9546f3f5243266d59ec2.jpg",
+    "static/media/habitos-saludables-mhas.jpg": "/Restaurant/static/media/habitos-saludables-mhas.e3ce17c4aad31b2a741f.jpg",
+    "static/media/1.jpg": "/Restaurant/static/media/1.960ff282036e3c4e63eb.jpg",
+    "static/media/2.jpg": "/Restaurant/static/media/2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/01.jpg": "/Restaurant/static/media/01.def1737a1b231d7fedef.jpg",
+    "static/media/02.jpg": "/Restaurant/static/media/02.a567a9db1482b99c0fab.jpg",
+    "index.html": "/Restaurant/index.html",
+    "main.3e696bdc.css.map": "/Restaurant/static/css/main.3e696bdc.css.map",
+    "main.11431c8e.js.map": "/Restaurant/static/js/main.11431c8e.js.map",
+    "787.aab8bd84.chunk.js.map": "/Restaurant/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e696bdc.css",
+    "static/js/main.11431c8e.js"
+  ]
+}
